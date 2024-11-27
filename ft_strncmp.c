@@ -1,15 +1,3 @@
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   ft_strncmp.c                                       :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: acatusse <acatusse@student.42.fr>          +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/11/23 17:09:22 by acatusse          #+#    #+#             */
-/*   Updated: 2022/12/07 16:16:19 by acatusse         ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
 /* Compare deux strings sur n caracteres et renvoie leur difference de position
  dans la table ascii */
 

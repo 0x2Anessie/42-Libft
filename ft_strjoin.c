@@ -1,15 +1,3 @@
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   ft_strjoin.c                                       :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: acatusse <acatusse@student.42.fr>          +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/11/23 17:26:30 by acatusse          #+#    #+#             */
-/*   Updated: 2022/12/07 16:15:59 by acatusse         ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
 /* Concatene deux strings dans une nouvelle string obtenue avec un malloc de la
 taille des deux strings */
 
