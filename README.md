@@ -62,10 +62,11 @@ Fonctions absentes de la libc mais très utiles, comme :
 
 1. **Cloner le repo** :  
    ```bash
-   git clone <URL-du-dépôt>
-   cd libft
+   git clone https://github.com/0x2Anessie/42-Libft.git
    ```
-
+   ```bash
+   cd 42-Libft
+   ```
 
 2. **Compiler le projet**
    ```bash
