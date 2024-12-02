@@ -21,7 +21,7 @@ L'objectif principal est de recoder des fonctions de la bibliothèque standard C
 
 ## 📋 Structure du Projet
 
-### 1. Partie Obligatoire
+### Partie Obligatoire
 
 #### Fonctions de la libc
 
